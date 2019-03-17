@@ -1,0 +1,18 @@
+// @import "./base/reset";
+// @import "./base/fonts";
+// @import "./base/variables";
+// @import "./base/mixins";
+body {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  #sectApi {
+    width: 50%;
+    //margin: 10px auto;
+  }
+  #sectFirebase {
+    width: 50%;
+    //background-color: red;
+    //margin: 10px auto;
+  }
+}
